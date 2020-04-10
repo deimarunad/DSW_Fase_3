@@ -4,6 +4,14 @@
     padding:0px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.Padlad
+{
+	padding-left: 1020px;
+}
+.Padlas
+{
+	padding-right: 1070px;
+}
 
   p.ex1 {
   margin-bottom: 100px;
