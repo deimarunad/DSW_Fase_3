@@ -269,12 +269,14 @@ aside
 
 .articulo2        
 {
-    height: 1131px;
+    height: 800px;
     width: 96%;
     margin: 1em;
     border-radius: 0em;
     background-color: aliceblue;
     text-decoration: none; color: black;
+    text-align: center;
+    padding: 10px;
    
 
     
