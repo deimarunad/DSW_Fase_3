@@ -269,10 +269,10 @@ aside
 
 .articulo2        
 {
-    height: 400%;
+    height: 1131px;
     width: 96%;
     margin: 1em;
-    border-radius: 1em;
+    border-radius: 0em;
     background-color: aliceblue;
     text-decoration: none; color: black;
    
@@ -280,20 +280,6 @@ aside
     
     }
 
-
-        footer{
-          background:#004669;
-            clear: both;
-            border-radius: 0em;
-            text-align: center;
-    width: 1300;
-            height: 180px;
-    padding: 20px;
-    
-            
-    
-            
-            }
 
             .efecto:hover{
               width:100px;
