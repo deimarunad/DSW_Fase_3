@@ -101,7 +101,7 @@ nav{
   margin-left: 25%;
 }
  #nav li {
-  display :inline-block;
+  display:none;
   float: left;
   text-align:center;
 width: 20%
@@ -121,6 +121,7 @@ width: 20%
 
 #nav li a:hover{
   background: orange;
+	display:block;
 }
 
 #nav li a p{
