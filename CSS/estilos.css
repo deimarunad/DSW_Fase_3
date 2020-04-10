@@ -175,7 +175,17 @@ text-align: center;
                 border-radius: 0em;
 
                 }
+#contenido2
+            {
+                width: 1090;
+                height: 1300px;
+                float: right;
+                background-color: #006680;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                border-radius: 0em;
 
+                }
 
                 #redes
                 {
