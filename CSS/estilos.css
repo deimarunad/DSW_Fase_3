@@ -101,7 +101,7 @@ nav{
   margin-left: 25%;
 }
  #nav li {
-  display:none;
+  display:inline;
   float: left;
   text-align:center;
 width: 20%
@@ -109,6 +109,7 @@ width: 20%
 }
 
 #nav li a{
+display:none;
   float: right;
   height: 61px;
   width:100%;
