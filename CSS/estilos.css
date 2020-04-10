@@ -101,7 +101,7 @@ width: 20%
 	
   float: right;
   height: 61px;
- display: inline;
+ display: block;
   width:100%;
   background: #004669;
   margin-left: 5px;
@@ -112,7 +112,6 @@ width: 20%
 
 #nav li a:hover{
   background: orange;
-	display: block;
 }
 
 #nav li a p{
