@@ -98,7 +98,7 @@ width: 20%
 }
 
 #nav li a{
-	
+  display:none;	
   float: right;
   height: 61px;
   width:100%;
