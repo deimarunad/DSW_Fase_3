@@ -120,7 +120,7 @@ ul,ol
  background:#a7a35b;
 }
 
-#navi ul li ul a{
+#navi ul li u2 a{
  display:none;
  position:absolute;
  top:100%;
@@ -130,19 +130,19 @@ ul,ol
 }
 
 
-#navi ul li ul {
+#navi ul li u2 {
  float:none;
  width:150px
 }
 
 
-#navi ul li ul a {
+#navi ul u2 a {
  line-height:120%;
  padding:10px 15px;
 }
 
 
-#navi ul li :hover > u1 {
+#navi ul li :hover > u2 {
  display:block;
 }
 
