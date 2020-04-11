@@ -83,25 +83,25 @@ nav{
   background: #004669;
 }
 
- #nav{
+ #navi{
   width: 44%;
   height: 61px;
   background: #004669;
   margin-left: 25%;
 }
 
-#nav ul {
+#navi ul {
  list-style:none;
  margin:0;
  padding:0;
 }
 
 
-#nav ul li {
+#navi ul li {
  background-color:#2e518b;
 }
 
-#nav ul a {
+#navi ul a {
  display:block;	
   float: right;
   height: 61px;
@@ -113,7 +113,7 @@ nav{
 }
 
 
-#nav ul li {
+#navi ul li {
  position:relative;
  float:right;
 	text-align:center;
@@ -123,11 +123,11 @@ width: 20%;
 }
 
 
-#nav ul li:hover {
+#navi ul li:hover {
  background:#5b78a7;
 }
 
-#nav ul ul {
+#navi ul ul {
  display:none;
  position:absolute;
  top:100%;
@@ -136,22 +136,22 @@ width: 20%;
  padding:0;
 }
 
-#nav li a p{
+#navi li a p{
   text-align: center;
   color:#fff;
   margin-top: 19px;
 }
 
-#nav ul ul li {
+#navi ul ul li {
  float:none;
  width:150px
 }
 
-#nav ul li:hover > ul {
+#navi ul li:hover > ul {
  display:block;
 }
 
-#nav ul ul a {
+#navi ul ul a {
  line-height:120%;
  padding:10px 15px;
 }
