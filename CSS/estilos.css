@@ -108,6 +108,24 @@ width: 20%
   transition: 1s background;
 
 }
+
+
+#nav u1 a:hover{
+  background: orange;
+}
+
+#nav li a p{
+  text-align: center;
+  color:#fff;
+  margin-top: 19px;
+}
+
+#nav u1 u1 a
+{
+   line-height:120%;
+   padding:10px 15px;
+}
+
 #nav u1 u1
 {
  display:none;
@@ -127,16 +145,6 @@ width: 20%
 #nav u1 li:hover > u1
 {
 	display:block;
-}
-
-#nav u1 a:hover{
-  background: orange;
-}
-
-#nav li a p{
-  text-align: center;
-  color:#fff;
-  margin-top: 19px;
 }
 
 /*color de fondo*/
