@@ -4,6 +4,12 @@
     padding:0px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+p 
+{
+	color: #000000;
+}
+
 .Padlad
 {
 	padding-left: 1020px;
