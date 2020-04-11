@@ -120,7 +120,7 @@ ul,ol
  background:#a7a35b;
 }
 
-#navi ul li ul {
+#navi ul li ul a{
  display:none;
  position:absolute;
  top:100%;
@@ -142,7 +142,7 @@ ul,ol
 }
 
 
-#navi ul li u1:hover > li {
+#navi ul li :hover > ui {
  display:block;
 }
 
