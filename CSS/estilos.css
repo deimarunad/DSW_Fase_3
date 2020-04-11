@@ -97,7 +97,7 @@ width: 20%
 
 }
 
-#nav li a{
+#nav u1 a{
   display:block;	
   float: right;
   height: 61px;
@@ -108,7 +108,7 @@ width: 20%
   transition: 1s background;
 
 }
-#nav u1 li a u1
+#nav u1 u1
 {
  display:none;
  position:absolute;
@@ -118,12 +118,18 @@ width: 20%
  padding:0;
 }
 
-#nav u1 li a:hover > u1
+#nav u1 u1 li
+{
+	float:none;
+    width:150px
+}
+
+#nav u1 li:hover > u1
 {
 	display:block;
 }
 
-#nav li a:hover{
+#nav u1 a:hover{
   background: orange;
 }
 
