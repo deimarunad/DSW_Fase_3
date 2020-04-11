@@ -83,68 +83,41 @@ ul,ol
 }
 
 
-#navi ul {
- list-style:none;
- margin:0;
- padding:0;
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
 }
 
-
-#navi ul li {
- background-color:#2e518b;
+.dropdown {
+  position: relative;
+  display: inline-block;
 }
 
-
-#navi ul a {
- display:block;
- color:#fff;
- text-decoration:none;
- font-weight:400;
- font-size:15px;
- padding:10px;
- font-family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
- text-transform:uppercase;
- letter-spacing:1px;
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
 }
 
-
-#navi ul li {
- position:relative;
- float:left;
- margin:0;
- padding:0;
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
 }
 
+.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
 
-#navi ul li:hover {
- background:#a7a35b;
-}
-
-#navi ul li u2 a{
- display:none;
- position:absolute;
- top:100%;
- left:0;
- background:#eee;
- padding:0;
-}
-
-
-#navi ul li u2 {
- float:none;
- width:150px
-}
-
-
-#navi ul u2 a {
- line-height:120%;
- padding:10px 15px;
-}
-
-
-#navi ul li :hover > u2 {
- display:block;
-}
 
 
 body
